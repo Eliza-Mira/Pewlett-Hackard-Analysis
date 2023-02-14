@@ -16,10 +16,13 @@ In preparation for attrition due to retirement, identify total number of employe
 
 ***Summary:***
 
->Based on the provided data, it's estimated that approximately `72,458 employees will retire from the organization`. Out of these, 50,842 retiring employees hold >positions as Senior Engineers and Senior Staff, while the remaining 21,616 retiring employees hold a combination of positions such as Engineer, Assistant Engineer, >Technique Leader, Manager, and Staff.
+>Based on the provided data, it's estimated that approximately `72,458 employees will retire from the organization`. 
+Out of these, 50,842 retiring employees hold positions as Senior Engineers and Senior Staff, while the remaining 21,616 retiring employees hold a combination of positions such as Engineer, Assistant Engineer, Technique Leader, Manager, and Staff.
 
 <img src="Pewlett-Hackard-Analysis/First_Retirement_GroupByJob.png" width="800">
 
->The organization may face a challenge in mentoring the next generation of employees due to a potential shortage of **retirement-eligible mentors**. Currently, **there >are only 1,549 employees** in the mentorship program, and it's possible that some may choose not to participate. Additionally, the possibility of early retirement may >further reduce the number of available mentors below the initial estimate of 1,549.
+>The organization may face a challenge in mentoring the next generation of employees due to a potential shortage of retirement-eligible mentors. 
+Currently, `there are only 1,549 employees in the mentorship program`, and it's possible that some may choose not to participate. 
+Additionally, the possibility of early retirement may further reduce the number of available mentors below the initial estimate of 1,549.
 
 <img src="Pewlett-Hackard-Analysis/RetiringGroupsANDEligibleMentors.png" width="900">
